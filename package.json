@@ -36,7 +36,7 @@
     "url": "git://github.com/swagger-autogen/swagger-autogen.git"
   },
   "devDependencies": {
-    "eslint": "^7.26.0",
+    "eslint": "^9.39.0",
     "prettier": "^2.3.0",
     "tape": "^4.11.0",
     "tape-promise": "^4.0.0"
@@ -44,7 +44,7 @@
   "dependencies": {
     "acorn": "^7.4.1",
     "deepmerge": "^4.2.2",
-    "glob": "^7.1.7",
+    "glob": "^9.3.5",
     "json5": "^2.2.3"
   }
 }
